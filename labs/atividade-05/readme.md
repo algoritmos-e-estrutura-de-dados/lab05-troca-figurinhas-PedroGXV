@@ -1,4 +1,4 @@
-# Troca de figurinhas
+ # Troca de figurinhas
 
 Maria e João estão colecionando figurinhas da Copa. Cada figura tem um identificador único, um número inteiro. Assim, como a maioria das pessoas, para completar o album de figurinhas, elas gostam de trocar figurinhas. Eles obviamente não se importam com cartas idênticas que ambos têm e não querem receber cartas repetidas na troca. Além disso, as cartas são trocadas em uma única operação: Maria dá a João $N$ figurinhas distintas e recebe de volta outras $N$ figurinhas distintas.
 
